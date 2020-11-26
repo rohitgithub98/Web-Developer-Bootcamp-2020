@@ -1,0 +1,19 @@
+img {
+	width:30%;
+	height: 33.3%;
+	margin-left:1.66%;
+}
+h1 {
+	margin-left: 1.66%;
+	text-transform: uppercase;
+	border-bottom: 2px solid #f1f1f1;
+	font-family: 'Grandstander', cursive;
+	color: blue;
+	width: 30%;
+	padding: 20px;
+	font-weight: 100px;
+}
+body {
+	background-color: black;
+}
+
